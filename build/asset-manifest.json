@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/banan-clicker/static/css/main.23b0937d.chunk.css",
+    "main.js": "/banan-clicker/static/js/main.0844a771.chunk.js",
+    "main.js.map": "/banan-clicker/static/js/main.0844a771.chunk.js.map",
+    "runtime-main.js": "/banan-clicker/static/js/runtime-main.0e81d9f9.js",
+    "runtime-main.js.map": "/banan-clicker/static/js/runtime-main.0e81d9f9.js.map",
+    "static/js/2.34d21bbd.chunk.js": "/banan-clicker/static/js/2.34d21bbd.chunk.js",
+    "static/js/2.34d21bbd.chunk.js.map": "/banan-clicker/static/js/2.34d21bbd.chunk.js.map",
+    "static/js/3.d351e4de.chunk.js": "/banan-clicker/static/js/3.d351e4de.chunk.js",
+    "static/js/3.d351e4de.chunk.js.map": "/banan-clicker/static/js/3.d351e4de.chunk.js.map",
+    "index.html": "/banan-clicker/index.html",
+    "static/css/main.23b0937d.chunk.css.map": "/banan-clicker/static/css/main.23b0937d.chunk.css.map",
+    "static/js/2.34d21bbd.chunk.js.LICENSE.txt": "/banan-clicker/static/js/2.34d21bbd.chunk.js.LICENSE.txt",
+    "static/media/banan.2b6b3660.png": "/banan-clicker/static/media/banan.2b6b3660.png",
+    "static/media/App.css": "/banan-clicker/static/media/jungle-bg.b989c73b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e81d9f9.js",
+    "static/js/2.34d21bbd.chunk.js",
+    "static/css/main.23b0937d.chunk.css",
+    "static/js/main.0844a771.chunk.js"
+  ]
+}
